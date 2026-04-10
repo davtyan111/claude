@@ -1,3 +1,8 @@
+---
+name: daily-report
+description: "generate daily todo tasks"
+---
+
 # Daily Report Skill
 
 ## Trigger
@@ -15,9 +20,10 @@ Report — {date}
 - No emojis, no bold, no categories
 - Short one-line descriptions per task
 
-## Slack
-- Channel ID: C070CSSUUNL
-- Send automatically when user says `daily report → send to slack`
+## Slack Flow
+1. Send draft to C070CSSUUNL (my-reports) first
+2. Wait for user confirmation ("ок", "ok", "отправь", "all good", etc.)
+3. On confirmation — send to C04R64SB2RL (general channel)
 
 ## Example
 Report — April 9, 2026
