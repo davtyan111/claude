@@ -22,7 +22,7 @@ Report — {date}
 
 ## Slack Flow
 1. Send draft to C070CSSUUNL (my-reports) first
-2. Wait for user confirmation ("ок", "ok", "отправь", "all good", etc.)
+2. Wait for user confirmation ("main channel")
 3. On confirmation — send to C04R64SB2RL (general channel)
 
 ## Example
