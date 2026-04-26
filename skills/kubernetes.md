@@ -1,3 +1,8 @@
+---
+name: kubernetes
+description: "Kubernetes deployment and management guidance covering Helm, RBAC, networking, storage, and GitOps pipelines"
+---
+
 <!-- Kubernetes Specialist
 Editor's Note
 The kubernetes-specialist skill provides Kubernetes deployment and management guidance, enabling users to create manifests, configure security policies, troubleshoot pod issues, and optimize workload performance across areas including Helm charts, RBAC, networking policies, storage, and GitOps pipelines. It serves DevOps engineers, SREs, and cloud architects who need to deploy and manage containerized workloads in Kubernetes clusters. The skill solves problems related to infrastructure-as-code implementation, cluster security hardening, workload troubleshooting, and multi-cluster management by offering structured workflows and reference documentation for common Kubernetes tasks.

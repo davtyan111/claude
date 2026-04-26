@@ -1,3 +1,8 @@
+---
+name: docker-expert
+description: "Advanced Docker containerization guidance for optimization, security hardening, multi-stage builds, and production deployment"
+---
+
 <!-- The docker-expert skill provides advanced Docker containerization guidance covering container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies. It serves developers and DevOps engineers who need to build, secure, and deploy containerized applications following industry best practices. The skill solves container-related problems by analyzing existing Docker setups, diagnosing issues, and applying specialized solutions while routing Kubernetes, CI/CD, cloud-specific, and database-related questions to appropriate specialized skills. -->
 <!-- Install
 npx skills add https://github.com/sickn33/antigravity-awesome-skills --skill docker-expert -->

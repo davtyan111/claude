@@ -1,3 +1,8 @@
+---
+name: find-skills
+description: "Search the open agent skills ecosystem to find existing solutions instead of reinventing the wheel"
+---
+
 <!-- Find Skills
 Editor's Note
 When users ask "how do I do X" or "can you help with Y," this skill searches the open agent skills ecosystem instead of making you reinvent the wheel.
