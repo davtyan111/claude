@@ -1,3 +1,8 @@
+---
+name: browser-agent
+description: "Fast browser automation CLI for AI agents via Chrome DevTools Protocol"
+---
+
 <!-- Agent Browser
 
 Editor's Note
