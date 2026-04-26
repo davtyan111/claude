@@ -1,3 +1,8 @@
+---
+name: mcp-chrome
+description: "Chrome browser automation for AI assistants via Chrome extension-based MCP server with 20+ tools"
+---
+
 Mcp Chrome - Editor's Note
 
 The Chrome MCP Server exposes Chrome browser functionality to AI assistants through a Chrome extension-based Model Context Protocol server, enabling complex browser automation, content analysis, and semantic search directly within a user's existing Chrome environment.
