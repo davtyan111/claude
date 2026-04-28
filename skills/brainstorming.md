@@ -1,3 +1,8 @@
+---
+name: brainstorming
+description: "Forces structured thinking before coding by blocking implementation until context, questions, and design are fully explored"
+---
+
 Brainstorming
 Editor's Note
 Forces Claude to actually think before coding, which frankly should be the default but isn't. Blocks all implementation until you've walked through context exploration, clarifying questions, approach options, and design approval. Generates proper spec docs with self-review checks for placeholders and contradictions. The hard gate against "this is too simple to design" saves you from those deceptively basic requests that turn into scope creep nightmares. Most useful when you're tired of Claude jumping straight into half-baked solutions that miss obvious requirements or architectural decisions.

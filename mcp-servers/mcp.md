@@ -1,3 +1,8 @@
+---
+name: aws-mcp
+description: "AWS Labs MCP servers for AI model interaction with AWS services across infrastructure, databases, and machine learning"
+---
+
 Mcp
 Editor's Note
 The AWS Labs MCP servers provide a suite of specialized Model Context Protocol servers that enable AI models to interact with AWS services and resources across various domains including infrastructure, databases, machine learning, and cost management. These servers expose tools for accessing AWS documentation, managing infrastructure as code, deploying containers and serverless functions, querying databases, and performing operational tasks through standardized MCP interfaces. The servers solve the problem of integrating AWS capabilities into MCP-compatible applications, allowing developers and AI assistants to programmatically interact with AWS services regardless of where the MCP client is being used.

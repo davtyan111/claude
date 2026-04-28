@@ -1,3 +1,8 @@
+---
+name: fetch
+description: "MCP server for retrieving and converting web content into formats optimized for language model processing"
+---
+
 Fetch
 Editor's Note
 The Fetch server enables LLMs to retrieve and convert web content into formats optimized for language model processing. It provides tools for fetching web pages and transforming their content into structured, efficient representations that reduce token usage. This server solves the problem of allowing AI models to access and process real-time web information while minimizing computational overhead.

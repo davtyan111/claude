@@ -1,3 +1,8 @@
+---
+name: repomix
+description: "Pack repository contents into a single AI-friendly file for use with LLMs and code analysis tools"
+---
+
  New: Repomix Website & Discord Community!
 Try Repomix in your browser at repomix.com
 Join our Discord Server for support and discussion

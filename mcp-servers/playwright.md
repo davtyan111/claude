@@ -1,3 +1,8 @@
+---
+name: playwright
+description: "Playwright MCP server for browser automation with 143 device presets for screenshots, scraping, and test generation"
+---
+
 <!-- Mcp Playwright
 Editor's Note
 The Playwright MCP server provides browser automation capabilities that enable LLMs to interact with web pages through tools for taking screenshots, scraping content, executing JavaScript, and generating test code in a real browser environment. It offers 143 real device emulation presets (iPhone, iPad, Pixel, Galaxy, Desktop) allowing LLMs to test web applications across different devices, viewports, and orientations with proper user-agent and touch event simulation. This server solves the problem of LLMs needing direct, scriptable access to live web pages for testing, verification, and data extraction tasks.

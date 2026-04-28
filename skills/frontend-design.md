@@ -1,3 +1,8 @@
+---
+name: frontend-design
+description: "Build distinctive web interfaces with bold aesthetic choices using HTML/CSS/JS or React components"
+---
+
 Frontend Design
 Editor's Note
 When you need to build web interfaces that don't look like every other AI-generated site, this skill pushes Claude to make bold aesthetic choices and implement them with precision. It guides creation of production-ready HTML/CSS/JS or React components with distinctive typography, creative layouts, and thoughtful animations. Instead of defaulting to Inter fonts and purple gradients, it forces commitment to a specific design direction, whether that's brutalist minimalism or maximalist chaos. The code output includes working implementations with CSS variables, animation delays, and contextual visual effects that actually match the chosen aesthetic rather than falling back on generic patterns.

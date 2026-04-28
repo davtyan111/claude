@@ -1,3 +1,8 @@
+---
+name: context7
+description: "MCP server delivering up-to-date, version-specific documentation and code examples directly into LLM prompts"
+---
+
 Context7
 Editor's Note
 Context7 provides an MCP server that delivers up-to-date, version-specific documentation and code examples directly into LLM prompts by fetching current information from source repositories. The server solves the problem of LLMs generating outdated code examples, hallucinated APIs, and generic answers based on old training data by injecting real-time documentation context for libraries and frameworks. It enables developers to request code examples and API information for specific tools (like Next.js, Cloudflare Workers, and Supabase) with the assurance of receiving current, accurate guidance.

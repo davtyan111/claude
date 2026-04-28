@@ -1,3 +1,8 @@
+---
+name: sequential-thinking
+description: "MCP server for dynamic and reflective problem-solving through structured thought sequences and iterative reasoning"
+---
+
 Sequentialthinking
 Editor's Note
 The Sequential Thinking server enables dynamic and reflective problem-solving by allowing LLMs to work through problems via structured thought sequences. It provides tools for iterative reasoning and analysis, helping AI models break down complex problems into manageable steps. This server demonstrates how MCP can facilitate more deliberate and transparent reasoning processes in language models.

@@ -1,3 +1,8 @@
+---
+name: seo-audit
+description: "Systematic SEO audit covering crawlability, technical foundations, on-page optimization, and content quality"
+---
+
 Seo Audit
 Editor's Note
 Claude runs a systematic SEO audit covering crawlability, technical foundations, on-page optimization, and content quality. It checks robots.txt, sitemaps, Core Web Vitals, title tags, heading structure, and internal linking while flagging common issues like duplicate content, canonicalization problems, and keyword cannibalization. The skill includes a helpful warning about schema markup detection limitations since web_fetch can't see JavaScript-injected structured data. It adapts the audit scope based on your site type and provides actionable recommendations in priority order. Good for diagnosing traffic drops, pre-launch reviews, or comprehensive health checks when you suspect SEO issues but aren't sure where to start looking.
