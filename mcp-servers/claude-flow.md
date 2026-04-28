@@ -1,3 +1,8 @@
+---
+name: claude-flow
+description: "Enterprise AI orchestration platform for coordinating 16 specialized agent roles in swarms with fault-tolerant consensus"
+---
+
 Claude Flow
 Editor's Note
 Claude Flow (RuFlo v3.5) is an enterprise AI orchestration platform that enables deployment and coordination of 16 specialized agent roles working in swarms with self-learning and fault-tolerant consensus capabilities. The server provides tools for multi-agent orchestration, policy engines, embeddings, and proof systems powered by Rust-based WASM kernels, solving the problem of coordinating complex AI-driven software engineering tasks across distributed teams. It integrates with Claude Code and offers enterprise-grade security features alongside self-optimizing agent capabilities.

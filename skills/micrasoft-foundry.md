@@ -1,3 +1,8 @@
+---
+name: microsoft-foundry
+description: "Microsoft Foundry AI agent lifecycle toolkit for containerized deployment, evaluation, and production optimization"
+---
+
 Microsoft Foundry
 Editor's Note
 A comprehensive toolkit for Microsoft Foundry's AI agent lifecycle, from containerized deployment through production optimization. Handles the complete workflow: builds Docker images, pushes to ACR, creates hosted agents, runs batch evaluations, and optimizes prompts based on performance data. The skill enforces a `.foundry/agent-metadata.yaml` workspace standard and includes specialized sub-skills for deployment, evaluation, troubleshooting, and RBAC management. It's designed for teams running production AI agents who need repeatable deployment pipelines and data-driven prompt optimization. The evaluation workflows are particularly robust, harvesting production traces into datasets and tracking performance regressions across agent versions.

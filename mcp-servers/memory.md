@@ -1,3 +1,8 @@
+---
+name: memory
+description: "Knowledge graph-based persistent memory system for LLMs to store and retrieve structured information across conversations"
+---
+
 Memory
 Editor's Note
 The Memory server provides a knowledge graph-based persistent memory system that enables LLMs to store, retrieve, and manage structured information across conversations. It offers tools for creating and querying a knowledge graph, allowing AI assistants to maintain contextual understanding and recall information over time. This reference implementation demonstrates how MCP can integrate semantic memory capabilities into language model interactions.

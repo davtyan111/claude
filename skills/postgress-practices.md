@@ -1,3 +1,8 @@
+---
+name: postgres-practices
+description: "Supabase Postgres best practices covering query optimization, indexing, connection pooling, and performance tuning"
+---
+
 Supabase Postgres Best Practices
 Editor's Note
 A solid reference for anyone working with Postgres, especially on Supabase. Contains 8 categories of performance rules prioritized by impact, from critical query optimization to advanced features. Each rule includes wrong vs. right SQL examples, query plan analysis, and specific performance metrics. The prioritization system is smart - it focuses on the stuff that actually breaks production first (missing indexes, connection pooling) before getting into nice-to-haves. Worth having loaded when reviewing database code or designing schemas, since it catches common Postgres pitfalls that can tank performance.

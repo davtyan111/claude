@@ -1,3 +1,8 @@
+---
+name: git
+description: "Git MCP server providing tools to read, search, and manipulate Git repositories through the Model Context Protocol"
+---
+
 Git
 Editor's Note
 The Git MCP server provides tools to read, search, and manipulate Git repositories, enabling LLMs to interact with version control systems through the Model Context Protocol. It offers capabilities for repository operations while maintaining security through controlled access patterns. This reference implementation demonstrates how MCP can grant AI models safe, structured access to Git functionality and repository data.

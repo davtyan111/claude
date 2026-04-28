@@ -1,3 +1,8 @@
+---
+name: react-practices
+description: "Vercel React and Next.js best practices with 69 specific checks for performance, bundle size, and server-side optimization"
+---
+
 Vercel React Best Practices
 Editor's Note
 This is Vercel's internal performance playbook turned into actionable code guidance. It runs 69 specific checks across React and Next.js codebases, catching things like barrel import performance hits, async waterfall patterns, and unnecessary re-renders. The rules are prioritized by actual impact, so it tackles bundle size killers and server-side bottlenecks before micro-optimizations. Each rule includes before/after code examples showing exactly what to fix. If you're shipping React apps at scale or just want to stop guessing about performance patterns, this codifies what the Vercel team actually follows internally.
